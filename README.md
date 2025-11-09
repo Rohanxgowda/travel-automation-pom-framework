@@ -1,3 +1,7 @@
+# travel-automation-pom-framework
+✅ Clear that it’s travel-related ✅ Mentions POM (Page Object Model) ✅ Uses “framework” — shows it’s reusable, not a one-off test script
+>>>>>>> f6d377ef6dfe051bc25c3843096d3a248476e469
+=======
 # Travel Website Test Automation Framework
 
 This project is a test automation framework for travel websites using Selenium WebDriver, Java, TestNG, and Maven, following the Page Object Model (POM) design pattern.
@@ -97,3 +101,7 @@ This will generate an HTML report in `target/site/checkstyle.html`.
 5. Search for flights
 6. Print cheapest and second cheapest flight details
 7. Open Google in a new tab
+=======
+# travel-automation-pom-framework
+✅ Clear that it’s travel-related ✅ Mentions POM (Page Object Model) ✅ Uses “framework” — shows it’s reusable, not a one-off test script
+>>>>>>> f6d377ef6dfe051bc25c3843096d3a248476e469
